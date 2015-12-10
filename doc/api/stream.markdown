@@ -13,7 +13,7 @@ streams, [Duplex][] streams, and [Transform][] streams.
 
 This document is split up into 3 sections.  The first explains the
 parts of the API that you need to be aware of to use streams in your
-programs.  If you never implement a streaming API yourself, you can
+programs.  If you never intend to implement a streaming API yourself, you can
 stop there.
 
 The second section explains the parts of the API that you need to use
